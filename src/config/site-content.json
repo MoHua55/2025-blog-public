@@ -55,6 +55,27 @@
 			"value": "mohua@mohua.ccwu.cc",
 			"label": "",
 			"order": 1
+		},
+		{
+			"id": "button-1777608254667",
+			"type": "tg",
+			"value": "https://t.me/MoHua799",
+			"label": "Telegram",
+			"order": 3
+		},
+		{
+			"id": "button-1777608266030",
+			"type": "facebook",
+			"value": "https://www.facebook.com/share/1DRpBdAG32/",
+			"label": "Facebook",
+			"order": 4
+		},
+		{
+			"id": "button-1777608279417",
+			"type": "x",
+			"value": "https://x.com/Cartas799",
+			"label": "X",
+			"order": 5
 		}
 	],
 	"clockShowSeconds": true,
