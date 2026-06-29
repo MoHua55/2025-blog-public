@@ -62,5 +62,16 @@
 			"ImgBed"
 		],
 		"github": "https://github.com/MoHua55/CloudFlare-ImgBed"
+	},
+	{
+		"name": "第三版个人博客",
+		"year": 20260628,
+		"image": "blob:https://bolg.mohua.us.ci/99d4ca96-15fb-484d-ae47-063858093475",
+		"url": "https://墨桦.cc.cd",
+		"description": "第三版个人博客，基于Firely",
+		"tags": [
+			"bolg"
+		],
+		"github": "https://github.com/CuteLeaf/Firefly"
 	}
 ]
